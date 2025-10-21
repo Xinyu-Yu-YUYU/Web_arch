@@ -1,2 +1,2 @@
 # Web_arch
-A static website made for a project during college named VR-based Computational Architectural Design System. This website mainly documents the introduction of our project, the presentation of the results and the team introduction, which is a suitable platform to guide the users for the first time.
+Web_arch is a static showcase for our undergraduate project, the VR-based Computational Architectural Design System. The site spotlights the project's goals, key outcomes, and the team behind it, acting as a digital hub to onboard and guide new visitors.
